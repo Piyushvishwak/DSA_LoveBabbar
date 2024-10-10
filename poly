@@ -1,0 +1,5 @@
+1. compile time polymorphism is also called static polymorphism
+2. and, runtime polymorphism is also called dynamic polymorphism.
+ 
+3. Compile time polymorphism is achieved by function overloading and operator overloading.
+4. Runtime polymorphism is achieved by function overriding.
